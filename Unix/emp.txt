@@ -1,0 +1,16 @@
+1001|John|Manager|90000
+1002|Allan|Director|95000
+1003|Jermey|g.m.|80000
+1004|Agarawal|supervisor|50000
+1005|Aggrawal|MANAGER|90000
+1006|Agrawal|Director|95000
+1007|Dasgupta|g.m.|80000
+1008|Sengupta|supervisor|50000
+1009|John|manager|90000
+1010|Allan|Director|95000
+1011|Jermey|g.m.|80000
+1012|Warren|supervisor|50000100
+1013|John|Manager|90000
+1014|Allan|Director|95000
+1015|Jermey|g.m.|80000
+1016|Warren|supervisor|50000.00
